@@ -6,6 +6,8 @@ class Directory extends Component {
     constructor(props) {
         super(props);
 
+        // TODO: import section data from shop-page.data.js instead
+
         this.state = {
             sections: [
                 {
