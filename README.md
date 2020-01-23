@@ -27,27 +27,27 @@ app with Redux, Hooks, GraphQL, ContextAPI, Stripe and Firebase.
 - State Normalization
 
 ## 2. Progression :white_check_mark:
--[x] Frontend development with React  
--[x] Navigation between pages with react-router  
--[x] Authentication with email and google account with firebase  
--[ ] State management with Redux  
--[ ] Session storage + persistence  
--[ ] Advanced state management  
--[ ] Advanced routing  
--[ ] State normalization  
--[ ] Stripe payments  
--[ ] Deploying to production  
--[ ] Styled components  
--[ ] Advanced redux + firebase  
--[ ] HOC patterns  
--[ ] Async Redux  
--[ ] Container pattern  
--[ ] Redux saga  
--[ ] React Hooks  
--[ ] Strip payments (backend)  
--[ ] context API  
--[ ] GraphQL + Apollo  
--[ ] Mobile support  
--[ ] React performance  
--[ ] Firebase security  
--[ ] Testing
+- [x] Frontend development with React
+- [x] Navigation between pages with react-router
+- [x] Authentication with email and google account with firebase
+- [ ] State management with Redux
+- [ ] Session storage + persistence
+- [ ] Advanced state management
+- [ ] Advanced routing
+- [ ] State normalization
+- [ ] Stripe payments
+- [ ] Deploying to production
+- [ ] Styled components
+- [ ] Advanced redux + firebase
+- [ ] HOC patterns
+- [ ] Async Redux
+- [ ] Container pattern
+- [ ] Redux saga
+- [ ] React Hooks
+- [ ] Strip payments (backend)
+- [ ] context API
+- [ ] GraphQL + Apollo
+- [ ] Mobile support
+- [ ] React performance
+- [ ] Firebase security
+- [ ] Testing
