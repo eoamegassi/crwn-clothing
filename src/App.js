@@ -10,6 +10,7 @@ import {auth} from "./firebase/firebase.utils";
 
 
 class App extends React.Component {
+
     constructor(props) {
         super(props);
 

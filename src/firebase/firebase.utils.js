@@ -1,7 +1,6 @@
 import firebase from "firebase/app";
 import 'firebase/firestore';
 import 'firebase/auth';
-import 'firebase/analytics';
 
 
 const firebaseConfig = {
@@ -14,10 +13,16 @@ const firebaseConfig = {
     appId: "1:551033413313:web:0fb91f3d76ec1f9da1fe40",
     measurementId: "G-156QYH18W8"
 };
+
+
+export const createUserProfileDocument = async (userAuth, additionnalData) => {
+    if (!userAuth) return ;
+
+    console.log()
+};
+
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
-firebase.analytics();
-
 
 export const auth = firebase.auth();
 export const firestore = firebase.firestore();
