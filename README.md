@@ -51,3 +51,5 @@ app with Redux, Hooks, GraphQL, ContextAPI, Stripe and Firebase.
 - [ ] React performance
 - [ ] Firebase security
 - [ ] Testing
+- [ ] Webpack + Babel
+- [ ] Build a GatsbyJS blog
